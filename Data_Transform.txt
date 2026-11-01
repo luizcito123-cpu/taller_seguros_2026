@@ -1,0 +1,10 @@
+*Data_Transform7
+<Inicio>
+//Ejecución de reglas de negocios ETL. 
+1. Reemplace valores in ('NULL', '','_') EN '0'
+2. Concidere la variable fecha de compra > 2025
+3. Concidere los equipos que sean solo ('Iphone', 'Samsung', 'Nokia', 'XIAOMI', 'LG')
+4. Concidere las tiendas en ('Miraflores', 'Cercado de lima', 'BREÑA')
+5. Concidere EQUIPOS VENDIDOS ('SIM1', 'SIM2')
+5. Concidere EQUIPOS COSTO > 1000 
+<FIN>
